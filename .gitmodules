@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AnchorRegression"]
 	path = AnchorRegression
 	url = https://github.com/simzim96/anchorregression
-	shallow = true
-	registered = true
